@@ -21,7 +21,7 @@ This project demonstrates **user authentication and access control** implementat
 
 <h2>🚀 Report & Documentation</h2>
 
-📄 **[Download Full Report (PDF)](./Applying_User_Authentication_and_Access_Controls.pdf)**  
+📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18664963/Applying.User.Authentication.and.Access.Controls.4e.-.Marc.Corona.pdf)**  
 📂 **Screenshots & Configuration Files**:
 - `ad_users_groups.png` – ADUC users and groups  
 - `ntfs_hrfiles_permissions.png` – NTFS security settings for HRfiles  
