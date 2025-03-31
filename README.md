@@ -21,7 +21,7 @@ This project demonstrates **user authentication and access control** implementat
 
 <h2>🚀 Report & Documentation</h2>
 
-📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18664963/Applying.User.Authentication.and.Access.Controls.4e.-.Marc.Corona.pdf)**   
+📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/19540149/Applying.User.Authentication.and.Access.Controls.-.Marc.Corona.Mireles.pdf)**   
 
 <h2>✅ Key Takeaways & Security Best Practices</h2>
 
